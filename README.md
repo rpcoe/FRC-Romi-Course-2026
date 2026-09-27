@@ -1,4 +1,5 @@
 # FRC-Romi-Programming-Course
+
 A course for learning how to program FRC robots using the WPILib and a Romi robot. This course is designed for FRC teams or individual students who have access to Romi robots (https://www.pololu.com/product/4022) and want to learn how to develop software for robots. This course assumes no prior knowledge of programming, but will also serve students with some prior experience. In addition to covering fundamentals of programming (in Java), this course teaches how to use the WPILib to program robots using the command-based framework. It also demonstrates a number of ways one can use software to increase the competitiveness of a robot, using practical examples that could easily be applied to FRC. Because this course uses the WPILib, projects done for this course could easily be transferred to a full-size FRC robot with only minimal changes. If all the projects in this course were applied to a robot, it would lead to a significant advantage in drivability as compared to default drive code, and provide basic autonomous capabilities, but this course stops short of advanced concepts such as motion profiling.
 
 This course can be completed with a few hours a week over the course of a fall pre-season. Students on teams with few or no programming mentors can do this course without any adult help. FRC teams in such a position can use this to develop a few students into programmers and kickstart their programming teams. Teams that already have a number of programming students and/or mentors can use it as a way to train new students or as an introduction to more advanced concepts. Teams that already have software curriculums may find individual lessons, projects, or examples beneficial.
@@ -24,6 +25,7 @@ Lesson 14 - Abstract Classes & Interfaces
 Lesson 15 - Static & Super  
 Lesson 16 - Manual Drive Methods  
 Lesson 17 - Deadbanding & Turn Scaling  
-Lesson 18 - Exponential & Linear Control  
-Lesson 19 - Parallel Command Groups  
-Lesson 20 - Integrating Commands in Teleop
+Lesson 18 - SmartDashboard
+Lesson 19 - RomiBot2026
+Lesson 20 - Drive Methods Update
+Lesson 21 -
